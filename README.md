@@ -10,7 +10,7 @@ It helps you discover the musician inside you without actually trying that hard
 * Dart
 * Java
 ## Demonstration
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/70524989/97581626-cdd9b180-1a1a-11eb-8bbb-6e0ca16d56ce.gif)
+![VID-20201029-WA0039](https://user-images.githubusercontent.com/70524989/97584389-fadb9380-1a1d-11eb-9213-a3f06f7128cc.gif)
 
 
 
