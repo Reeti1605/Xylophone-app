@@ -9,4 +9,8 @@ It helps you discover the musician inside you without actually trying that hard
 * Flutter
 * Dart
 * Java
+## Demonstration
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/70524989/97581626-cdd9b180-1a1a-11eb-8bbb-6e0ca16d56ce.gif)
+
+
 
